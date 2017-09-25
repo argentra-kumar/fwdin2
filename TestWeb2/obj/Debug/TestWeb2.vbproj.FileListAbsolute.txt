@@ -1,0 +1,8 @@
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\bin\TestWeb2.dll
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\bin\TestWeb2.pdb
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\bin\TestWeb2.xml
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\obj\Debug\TestWeb2.Resources.resources
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\obj\Debug\TestWeb2.vbproj.GenerateResource.Cache
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\obj\Debug\TestWeb2.dll
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\obj\Debug\TestWeb2.xml
+C:\temp\k9u8m7a6\VS2010\TestWeb2\TestWeb2\obj\Debug\TestWeb2.pdb
